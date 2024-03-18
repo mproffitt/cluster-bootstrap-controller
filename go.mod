@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/fluxcd/pkg/runtime v0.35.0
-	github.com/go-logr/logr v1.2.4
+	github.com/go-logr/logr v1.4.1
 	github.com/google/go-cmp v0.5.9
 	github.com/weaveworks/cluster-controller v1.4.2-0.20230314084534-893b54eaffa5
 	k8s.io/api v0.26.3
