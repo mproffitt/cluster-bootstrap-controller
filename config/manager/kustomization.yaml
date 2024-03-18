@@ -5,4 +5,4 @@ kind: Kustomization
 images:
 - name: controller
   newName: ghcr.io/weaveworks/cluster-bootstrap-controller
-  newTag: latest
+  newTag: v0.7.3-2-g8d71f2d
